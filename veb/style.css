@@ -1,0 +1,63 @@
+.main{
+	height: 800px;
+	width: 800px;
+	border: 4px solid black;
+	float:left;
+}
+.white{
+	height: 100px;
+	width: 100px;
+	background-color: white;
+	float:left;
+}
+.black{
+	height: 100px;
+	width: 100px;
+	background-color: black;
+	float:left;
+}
+.numbers-right{
+	width: 20px;
+	height: 101px;
+	text-align: center;
+	transform: rotate(180deg);
+	display: flex;
+	align-items: center;
+}
+.numbers-left{
+	width: 20px;
+	height: 101px;
+	display: flex;
+	align-items: center;
+}
+.symbols-top{
+	
+	height: 20px;
+	width: 100px;
+	text-align: center;
+	float:left;
+	transform: rotate(180deg);
+}
+.symbols-bottom{
+	height: 20px;
+	width: 100px;
+	text-align: center;
+	float:left;
+}
+.right{
+	width: 20px;
+	height: 800px;
+	float:left;
+}
+.gost{
+	height: 20px;
+	width: 24px;
+	float:left;
+}
+.size{
+	height: 850px;
+	width: 850px;
+}
+.blackimg{
+	border:1px solid white;
+}
